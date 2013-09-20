@@ -8,6 +8,6 @@
 4. Click on the "Direct Link" tab.
 5. Use the provided URL as the oEmbed URL.
 
-The correct url for this poll is `http://poll.fm/4er5m`
+The correct URL for this poll is `http://poll.fm/4er5m`
 
 ![Polldaddy 3](images/polldaddy3.png)
