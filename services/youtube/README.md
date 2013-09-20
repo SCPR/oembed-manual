@@ -1,6 +1,6 @@
 ## YouTube
 
-Just use the URL of the video on YouTube.
+Use the URL of the video on YouTube.
 
 The correct URL for the following video is `http://www.youtube.com/watch?v=a1Y73sPHKxw`
 
