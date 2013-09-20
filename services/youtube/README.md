@@ -2,4 +2,5 @@
 
 Just use the URL of the video on YouTube.
 
-![YouTube 1](/services/youtube/images/youtube1.png?raw=true)
+![YouTube 1](images/youtube1.png)
+
