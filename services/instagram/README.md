@@ -6,6 +6,6 @@
 3. Select "View Photo Page"
 4. Use that URL as the oEmbed URL.
 
-The correct URL for the following photo is `http://instagram.com/p/edaxYFgoGW/`
+The correct URL for the following photo is `http://instagram.com/p/edaxYFgoGW/`.
 
 ![Instagram 2](images/instagram2.png)
