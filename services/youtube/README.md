@@ -1,4 +1,4 @@
-##  YouTube
+## YouTube
 
 Just use the URL of the video on YouTube.
 
