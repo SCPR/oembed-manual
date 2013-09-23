@@ -12,6 +12,7 @@ The correct URL for the following document is `http://www.scribd.com/doc/1703960
 
 ![Scribd 3](images/scribd3.png)
 
+
 ### Alternate Method
 
 If you see the document embedded on a website, but do not want to upload it yourself, follow these steps:
