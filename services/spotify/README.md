@@ -15,3 +15,10 @@
 2. Right-click the song and click the "Copy HTTP Link" option.  
 ![Spotify 3](images/spotify3.png)
 3. The correct URL will be copied to your clipboard.
+
+
+### Embedding albums or playlists
+
+This works exactly the same way as embedding a single song, except instead of clicking the "three dots" icon, you should right-click the album/playlist title.
+
+![Spotify 4](images/spotify4.png)
