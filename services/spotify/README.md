@@ -21,4 +21,6 @@
 
 This works exactly the same way as embedding a single song, except instead of clicking the "three dots" icon, you should right-click the album/playlist title.
 
+Alternatively, you can simply copy the page's current URL when you are viewing an album or playlist.
+
 ![Spotify 4](images/spotify4.png)
