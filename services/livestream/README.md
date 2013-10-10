@@ -4,6 +4,6 @@
 ![LiveStream1](images/livestream1.png)
 2. Use the video's URL as the oEmbed URL.
 
-The correct URL for the following map is `http://new.livestream.com/DFJ/DraperDemoDay`
+The correct URL for the following video is `http://new.livestream.com/DFJ/DraperDemoDay`
 
 ![LiveStream 2](images/livestream2.png)
