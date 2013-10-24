@@ -1,5 +1,8 @@
 ## Google Maps
 
+**Note** This method will not work with the "New" Google Maps. You must use the
+"Classic" Google Maps for these instructions, for now.
+
 1. Visit http://maps.google.com
 2. Type in the address/location you want to embed.
 3. Click the LINK icon:  
