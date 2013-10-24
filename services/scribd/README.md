@@ -7,6 +7,14 @@
 ![Scribd 2](images/scribd2.png)
 4. Use that URL as the oEmbed URL.
 
+**Note** If it's not working or you see an "Available in the App Store" icon,
+try removing the URL slug from the URL. So, instead of:
+
+`http://www.scribd.com/doc/170396000/UNITED-STATES-NUCLEAR-REGULATORY-COMMISSION`
+
+Use:
+
+`http://www.scribd.com/doc/170396000`
 
 The correct URL for the following document is `http://www.scribd.com/doc/170396000/UNITED-STATES-NUCLEAR-REGULATORY-COMMISSION`.
 
